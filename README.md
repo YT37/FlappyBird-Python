@@ -5,7 +5,7 @@ This project is a game of FlappyBird that plays itself using NEAT in Python.
  - Modified from [this](https://github.com/techwithtim/NEAT-Flappy-Bird) repository.
 
 # Requirements
- - Python 3.x
+ - Python 3.6 or up
  - NEAT
  - PyGame
  
